@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<graph>
+  <sommets>
+    <sommet text="A" />
+    <sommet text="B" />
+    <sommet text="C" />
+    <sommet text="D" />
+    <sommet text="E" />
+  </sommets>
+  <arcs>
+    <arc initial="A" terminal="B" />
+    <arc initial="A" terminal="C" />
+    <arc initial="B" terminal="C" />
+    <arc initial="D" terminal="E" />
+  </arcs>
+</graph>

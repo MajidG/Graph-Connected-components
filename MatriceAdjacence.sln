@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.23107.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Graphs", "Graphs\Graphs.csproj", "{81618D4C-6A73-4B55-82AE-88C0CE782841}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MatriceAdjacence", "MatriceAdjacence\MatriceAdjacence.csproj", "{F83DE542-15D2-4346-8DB3-885E4892C1A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{81618D4C-6A73-4B55-82AE-88C0CE782841}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{81618D4C-6A73-4B55-82AE-88C0CE782841}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{81618D4C-6A73-4B55-82AE-88C0CE782841}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{81618D4C-6A73-4B55-82AE-88C0CE782841}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F83DE542-15D2-4346-8DB3-885E4892C1A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F83DE542-15D2-4346-8DB3-885E4892C1A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F83DE542-15D2-4346-8DB3-885E4892C1A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F83DE542-15D2-4346-8DB3-885E4892C1A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
